@@ -8,6 +8,7 @@ This repository contains a simple and elegant Todo List web app built using Tail
 - Mark todos as completed.
 - Delete completed todos or those no longer needed.
 - Save todos to the local storage for persistent data.
+- Edit todos to the local storage.
 - Schedule your to-dos
 - Change to-dos status
 - Filter to-dos by status
