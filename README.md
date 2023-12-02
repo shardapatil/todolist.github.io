@@ -19,3 +19,5 @@ This repository contains a simple and elegant Todo List web app built using Tail
 - CSS3 with Tailwind CSS: For styling the app beautifully.
 - JavaScript: To handle the interactive functionality of the app.
 - Local Storage: To save todos for persistent data across browser sessions.
+
+you can chekc here: https://shardapatil.github.io/todolist.github.io/
